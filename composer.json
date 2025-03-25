@@ -1,5 +1,5 @@
 {
-	"name": "codelicious/php-coda-parser",
+	"name": "ionutgrecu/php-coda-parser",
 	"description": "PHP parser for Belgian CODA banking files",
 	"keywords": ["coda", "parsing", "bank"],
 	"homepage": "https://github.com/wimverstuyf/php-coda-parser",
