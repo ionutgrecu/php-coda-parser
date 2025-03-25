@@ -2,11 +2,11 @@
 	"name": "ionutgrecu/php-coda-parser",
 	"description": "PHP parser for Belgian CODA banking files",
 	"keywords": ["coda", "parsing", "bank"],
-	"homepage": "https://github.com/wimverstuyf/php-coda-parser",
+	"homepage": "https://github.com/ionutgrecu/php-coda-parser",
 	"type": "library",
 	"license": "GPL-2.0",
 	"authors": [
-		{ "name": "Wim Verstuyf", "email": "wim.verstuyf@codelicious.be" }
+		{ "name": "Wim Verstuyf", "email": "ionut@grecu.eu" }
 	],
 	"require": {
 		"php": ">=7.0.0"
